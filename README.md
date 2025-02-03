@@ -55,6 +55,6 @@ My passion lies in leveraging data to drive innovation and solve real-world chal
 - Improving my expertise in **Machine Learning** and **Data Science** to solve complex, real-world problems.
 
 ### 📬 How to Reach Me
-- **Email**: nadaallban2001@gmail.com
+- **Email**: naa94417@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/nadaragab2001](https://www.linkedin.com/in/nadaragab2001)
 - **Phone**: +201141438555
