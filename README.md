@@ -34,36 +34,36 @@ I specialize in developing predictive models, building analytical solutions, and
 
 ## 🛠️ Tech Stack  
 
-### 👩‍💻 Programming  
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=flat&logo=mysql&logoColor=white"/>
+### 👩‍💻 Programming
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" /></a>
 </p>
 
-### 🤖 Machine Learning & Deep Learning  
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+### 🤖 Machine Learning & Deep Learning
+<p align="center">
+  <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" /></a>
+  <a href="https://keras.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="60" /></a>
+  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" /></a>
 </p>
 
-### 📊 Data Analysis & Visualization  
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly"/>
+### 📊 Data Analysis & Visualization
+<p align="center">
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" /></a>
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" /></a>
+  <a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" /></a>
+  <a href="https://plotly.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="60" /></a>
 </p>
 
-### 📦 Tools & Others  
-<p>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=Power%20BI"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+### 📦 Tools & Others
+<p align="center">
+  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" width="60" /></a>
+  <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60" /></a>
+  <a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Beautiful_Soup_logo.svg/1024px-Beautiful_Soup_logo.svg.png" width="60" /></a>
+  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" /></a>
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" /></a>
 </p>
 
 ---
