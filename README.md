@@ -4,101 +4,87 @@
 </p>
 
 <!-- HEADER -->
-<h1 align="center">✨ Nada Ragab — Data Scientist ✨</h1>
-<h3 align="center">Machine Learning • Deep Learning • Data Analysis</h3>
+<h1 align="center">Hi 👋, I'm Nada Ragab</h1>
+<h3 align="center">Data Scientist | ML & DL Explorer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadaragab2001">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nadaallban2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=NadaRagab-DataScientist&color=blue" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/nadaragab2001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nadaallban2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=NadaRagab&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-I am a **Data Scientist** with hands-on experience in **Machine Learning, Deep Learning, Computer Vision, and Data Analysis**.  
-I specialize in developing predictive models, building analytical solutions, and transforming data into actionable insights.
+Data Scientist with strong experience in **machine learning, deep learning, and data analysis**, passionate about transforming raw data into meaningful insights.  
+With a background in **Computers & Artificial Intelligence**, I focus on building ML models, automating data pipelines, and delivering real-world data solutions.
 
-- 🔭 Working as a **Freelance Data Scientist**  
-- 🎓 IBM **Data Science Trainee**  
-- 💻 Data Science Intern at **CodeAlpha**  
-- 📘 DEPI — **Data Science Track Graduate**  
-- 🤝 Open to collaborations in ML models, dashboards, NLP, and automation  
-- 📫 Contact me: **nadaallban2001@gmail.com**
+- 🔭 Currently working as: **Freelance Data Scientist**  
+- 🌱 Currently learning: **Deep Learning, Cloud for DS, Big Data**  
+- 👯 Open to: **ML projects, dashboards, automations & collaborations**  
+- 📫 Reach me at: **nadaallban2001@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack  
 
-### 👩‍💻 Programming
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></a>
-
+### 👩‍💻 Programming  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
+### 🤖 Machine Learning & Deep Learning  
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+</p>
 
-### 🤖 Machine Learning & Deep Learning
-<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" /></a>
-<a href="https://keras.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" /></a>
-<a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" /></a>
+### 📊 Data Analysis & Visualization  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly"/>
+</p>
 
-### 📊 Data Analysis & Visualization
-<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /></a>
-<a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /></a>
-<a href="https://matplotlib.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /></a>
-<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" /></a>
-<a href="https://plotly.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" /></a>
-
-### 📦 Tools & Others
-<a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" width="40" /></a>
-<a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" /></a>
-<a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Beautiful_Soup_logo.svg/1024px-Beautiful_Soup_logo.svg.png" width="40" /></a>
-<a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" /></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
-
-
-### 🌟 Domain Skills
-<a href="#"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" title="AI"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/machine-learning.png" width="40" title="ML"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/data-configuration.png" width="40" title="Data Analysis"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/computer-vision.png" width="40" title="Computer Vision"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/deep-learning.png" width="40" title="Deep Learning"/></a>
+### 📦 Tools & Others  
+<p>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=Power%20BI"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects  
 
 ### 🔹 **Loan Default Prediction**  
-- Built ML models using ensemble learning to predict default risk  
-- Applied feature engineering to improve accuracy and stability  
-- **Tech:** Python, Scikit-learn  
-
----
+- Built machine learning models using **Random Forest & Gradient Boosting**  
+- Improved risk detection and reduced false positives  
+- **Tech:** Python, Scikit-learn, Feature Engineering  
 
 ### 🔹 **Customer Churn Prediction**  
-- Developed classification pipelines using Logistic Regression & Random Forest  
-- Helped detect high-risk customers to improve retention strategy  
-- **Tech:** Python, EDA, ML Modeling  
+- Developed churn detection pipelines using Logistic Regression  
+- Helped improve retention using early churn alerts  
+- **Tech:** Python, Scikit-learn, Data Cleaning  
 
----
-
-### 🔹 **Driver Drowsiness Detection (CNN)**  
-- Real-time system detecting drowsiness using CNN + face landmarks  
-- Reduces accident risk with automated alerting  
-- **Tech:** Python, OpenCV, Deep Learning  
+### 🔹 **Driver Drowsiness Detection (CNN)** — Graduation Project  
+- Real-time CNN-based system to detect driver drowsiness  
+- Integrated alarm system to prevent fatigue-related accidents  
+- **Tech:** Python, OpenCV, Deep Learning, CNNs  
 
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NadaRagab-DataScientist&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab-DataScientist&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NadaRagab&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
