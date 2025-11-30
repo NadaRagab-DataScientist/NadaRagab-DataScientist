@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=3F7DF6&center=true&vCenter=true&width=650&lines=Hi+I'm+Nada+Ragab+👋;Data+Scientist+%7C+ML+%26+DL+Enthusiast;AI+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=3F7DF6&center=true&vCenter=true&width=650&lines=Hi+I'm+Nada+Ragab+👋;Data+Scientist+%7C+ML+%26+DL+Specialist;AI+%26+Data+Explorer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <!-- HEADER -->
@@ -20,14 +20,14 @@
 ---
 
 ## 🚀 About Me  
-I am a **Data Scientist** passionate about building intelligent systems and transforming data into actionable insights.  
-With a strong background in **Machine Learning, Deep Learning, Computer Vision, and Data Analysis**, I’ve developed hands-on experience through internships, practical projects, and real-world applications.
+I am a **Data Scientist** with hands-on experience in **Machine Learning, Deep Learning, Computer Vision, and Data Analysis**.  
+I specialize in developing predictive models, building analytical solutions, and transforming data into actionable insights.
 
-- 🔭 Currently working as **Freelance Data Scientist**  
+- 🔭 Working as a **Freelance Data Scientist**  
 - 🎓 IBM **Data Science Trainee**  
 - 💻 Data Science Intern at **CodeAlpha**  
-- 📘 DEPI — **Data Science Track**  
-- 👯 Open to Collaboration: ML models, dashboards, and automation  
+- 📘 DEPI — **Data Science Track Graduate**  
+- 🤝 Open to collaborations in ML models, dashboards, NLP, and automation  
 - 📫 Contact me: **nadaallban2001@gmail.com**
 
 ---
@@ -71,23 +71,23 @@ With a strong background in **Machine Learning, Deep Learning, Computer Vision, 
 ## 📂 Featured Projects  
 
 ### 🔹 **Loan Default Prediction**  
-- Built ML models predicting loan default using ensemble learning  
-- Improved risk detection accuracy  
-- **Tech:** Python, Scikit-learn, Feature Engineering  
+- Built ML models using ensemble learning to predict default risk  
+- Applied feature engineering to improve accuracy and stability  
+- **Tech:** Python, Scikit-learn  
 
 ---
 
 ### 🔹 **Customer Churn Prediction**  
-- Designed classification pipelines using Logistic Regression & Random Forest  
-- Helped detect churn early for customer retention  
-- **Tech:** Python, Data Cleaning, ML Modeling  
+- Developed classification pipelines using Logistic Regression & Random Forest  
+- Helped detect high-risk customers to improve retention strategy  
+- **Tech:** Python, EDA, ML Modeling  
 
 ---
 
 ### 🔹 **Driver Drowsiness Detection (CNN)**  
-- Real-time system detecting drowsiness from face landmarks  
-- Alerts to prevent fatigue-related accidents  
-- **Tech:** Python, OpenCV, Deep Learning (CNN)  
+- Real-time system detecting drowsiness using CNN + face landmarks  
+- Reduces accident risk with automated alerting  
+- **Tech:** Python, OpenCV, Deep Learning  
 
 ---
 
