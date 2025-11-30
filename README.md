@@ -1,32 +1,43 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=3F7DF6&center=true&vCenter=true&width=650&lines=Hi+I'm+Nada+Ragab+👋;Data+Scientist+%7C+ML+%26+DL+Enthusiast;AI+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Nada Ragab</h1>
-<h3 align="center">Data Scientist | ML & DL Explorer | AI Enthusiast</h3>
+<h1 align="center">✨ Nada Ragab — Data Scientist ✨</h1>
+<h3 align="center">Machine Learning • Deep Learning • Data Analysis</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadaragab2001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:nadaallban2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=NadaRagab&color=blue" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/nadaragab2001">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nadaallban2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=NadaRagab-DataScientist&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
-Data Scientist with strong experience in **machine learning, deep learning, and data analysis**, passionate about transforming raw data into meaningful insights.  
-With a background in **Computers & Artificial Intelligence**, I focus on building ML models, automating data pipelines, and delivering real-world data solutions.
+I am a **Data Scientist** passionate about building intelligent systems and transforming data into actionable insights.  
+With a strong background in **Machine Learning, Deep Learning, Computer Vision, and Data Analysis**, I’ve developed hands-on experience through internships, practical projects, and real-world applications.
 
-- 🔭 Currently working as: **Freelance Data Scientist**  
-- 🌱 Currently learning: **Deep Learning, Cloud for DS, Big Data**  
-- 👯 Open to: **ML projects, dashboards, automations & collaborations**  
-- 📫 Reach me at: **nadaallban2001@gmail.com**
+- 🔭 Currently working as **Freelance Data Scientist**  
+- 🎓 IBM **Data Science Trainee**  
+- 💻 Data Science Intern at **CodeAlpha**  
+- 📘 DEPI — **Data Science Track**  
+- 👯 Open to Collaboration: ML models, dashboards, and automation  
+- 📫 Contact me: **nadaallban2001@gmail.com**
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠️ Tech Stack  
 
 ### 👩‍💻 Programming  
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & Deep Learning  
@@ -49,8 +60,8 @@ With a background in **Computers & Artificial Intelligence**, I focus on buildin
 ### 📦 Tools & Others  
 <p>
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=Power%20BI"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
 </p>
@@ -60,26 +71,31 @@ With a background in **Computers & Artificial Intelligence**, I focus on buildin
 ## 📂 Featured Projects  
 
 ### 🔹 **Loan Default Prediction**  
-- Built machine learning models using **Random Forest & Gradient Boosting**  
-- Improved risk detection and reduced false positives  
+- Built ML models predicting loan default using ensemble learning  
+- Improved risk detection accuracy  
 - **Tech:** Python, Scikit-learn, Feature Engineering  
 
-### 🔹 **Customer Churn Prediction**  
-- Developed churn detection pipelines using Logistic Regression  
-- Helped improve retention using early churn alerts  
-- **Tech:** Python, Scikit-learn, Data Cleaning  
+---
 
-### 🔹 **Driver Drowsiness Detection (CNN)** — Graduation Project  
-- Real-time CNN-based system to detect driver drowsiness  
-- Integrated alarm system to prevent fatigue-related accidents  
-- **Tech:** Python, OpenCV, Deep Learning, CNNs  
+### 🔹 **Customer Churn Prediction**  
+- Designed classification pipelines using Logistic Regression & Random Forest  
+- Helped detect churn early for customer retention  
+- **Tech:** Python, Data Cleaning, ML Modeling  
+
+---
+
+### 🔹 **Driver Drowsiness Detection (CNN)**  
+- Real-time system detecting drowsiness from face landmarks  
+- Alerts to prevent fatigue-related accidents  
+- **Tech:** Python, OpenCV, Deep Learning (CNN)  
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NadaRagab&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NadaRagab-DataScientist&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab-DataScientist&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -93,4 +109,3 @@ With a background in **Computers & Artificial Intelligence**, I focus on buildin
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
-
