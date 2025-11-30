@@ -62,6 +62,13 @@ I specialize in developing predictive models, building analytical solutions, and
 <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /></a>
 
 
+### 🌟 Domain Skills
+<a href="#"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" title="AI"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/machine-learning.png" width="40" title="ML"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/data-configuration.png" width="40" title="Data Analysis"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/computer-vision.png" width="40" title="Computer Vision"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/deep-learning.png" width="40" title="Deep Learning"/></a>
+
 ---
 
 ## 📂 Featured Projects  
