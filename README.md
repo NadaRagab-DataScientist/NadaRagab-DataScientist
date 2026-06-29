@@ -1,100 +1,189 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=3F7DF6&center=true&vCenter=true&width=650&lines=Hi+I'm+Nada+Ragab+👋;Data+Scientist+%7C+ML+%26+DL+Specialist;AI+%26+Data+Explorer;Welcome+to+my+GitHub+Profile!" />
-</p>
+# Hi 👋, I'm Nada Ragab
 
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Nada Ragab</h1>
-<h3 align="center">Data Scientist | ML & DL Explorer | AI Enthusiast</h3>
+### Data Scientist | Machine Learning Engineer | FastAPI & MLOps Enthusiast
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nadaragab2001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:nadaallban2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=NadaRagab&color=blue" alt="Profile Views"/>
-</p>
+Passionate Data Scientist specializing in Machine Learning and Artificial Intelligence. I enjoy building end-to-end data science solutions, from data preprocessing and model development to deployment using FastAPI and modern MLOps practices. I love transforming data into intelligent, real-world solutions that create impact.
 
 ---
 
-## 🚀 About Me  
-Data Scientist with strong experience in **machine learning, deep learning, and data analysis**, passionate about transforming raw data into meaningful insights.  
-With a background in **Computers & Artificial Intelligence**, I focus on building ML models, automating data pipelines, and delivering real-world data solutions.
+## 🚀 About Me
 
-- 🔭 Currently working as: **Freelance Data Scientist**  
-- 🌱 Currently learning: **Deep Learning, Cloud for DS, Big Data**  
-- 👯 Open to: **ML projects, dashboards, automations & collaborations**  
-- 📫 Reach me at: **nadaallban2001@gmail.com**
+🎓 Bachelor's Degree in Computers and Artificial Intelligence, Benha University
 
----
+📊 **Specialized in:**
 
-## 🛠 Tech Stack  
+* Data Science
+* Machine Learning
+* Deep Learning
+* Data Analysis
+* Model Deployment
 
-### 👩‍💻 Programming  
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+💻 **Experienced with:**
 
-### 🤖 Machine Learning & Deep Learning  
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-</p>
+* Python
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* FastAPI
+* Pandas
+* NumPy
+* SQL
+* MLflow
 
-### 📊 Data Analysis & Visualization  
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly"/>
-</p>
+🌱 **Currently Learning:**
 
-### 📦 Tools & Others  
-<p>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=Power%20BI"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-</p>
+* Advanced Machine Learning
+* Deep Learning
+* Cloud Technologies
+* MLOps
 
----
+🤝 **Open to:**
 
-## 📂 Featured Projects  
+* Data Science Opportunities
+* Machine Learning Projects
+* Research Collaborations
+* AI Application Development
 
-### 🔹 **Loan Default Prediction**  
-- Built machine learning models using **Random Forest & Gradient Boosting**  
-- Improved risk detection and reduced false positives  
-- **Tech:** Python, Scikit-learn, Feature Engineering  
+📫 **Reach Me**
 
-### 🔹 **Customer Churn Prediction**  
-- Developed churn detection pipelines using Logistic Regression  
-- Helped improve retention using early churn alerts  
-- **Tech:** Python, Scikit-learn, Data Cleaning  
-
-### 🔹 **Driver Drowsiness Detection (CNN)** — Graduation Project  
-- Real-time CNN-based system to detect driver drowsiness  
-- Integrated alarm system to prevent fatigue-related accidents  
-- **Tech:** Python, OpenCV, Deep Learning, CNNs  
+* 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/nadaragab2001
+* 💻 GitHub: github.com/NadaRagab-DataScientist
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NadaRagab&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab&layout=compact&theme=tokyonight"/>
-</p>
+## 🏆 Highlights
+
+* 🎓 B.Sc. in Computers and Artificial Intelligence
+* 🤖 Built multiple end-to-end Machine Learning and AI projects
+* 🚀 Experienced in deploying ML models using FastAPI
+* 📊 Strong background in predictive modeling and data analysis
+* 💡 Passionate about solving real-world problems with AI
 
 ---
 
-## 🤝 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/nadaragab2001">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:nadaallban2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* SQL
+
+### Machine Learning & Deep Learning
+
+* Scikit-learn
+* TensorFlow
+* Keras
+* PyTorch
+* XGBoost
+
+### Data Analysis & Visualization
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+
+### Deployment & MLOps
+
+* FastAPI
+* REST APIs
+* MLflow
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* Google Colab
+
+---
+
+## 📂 Featured Projects
+
+### 🏦 Bank Statement Analysis System
+
+AI-powered system for extracting, classifying, and managing financial transactions from PDF bank statements using OCR, Machine Learning, and FastAPI.
+
+**Tech Stack:** Python, FastAPI, Scikit-learn, PDF Processing
+
+**Key Features**
+
+* Financial transaction extraction
+* Automatic transaction classification
+* Feedback-based learning
+* JSON-ready output
+
+---
+
+### 🏥 Diabetic Patient Readmission Prediction (DEPI Graduation Project)
+
+End-to-end Machine Learning project for predicting diabetic patient readmission using multiple classification models, MLflow experiment tracking, and FastAPI deployment.
+
+**My Contributions**
+
+* Data Cleaning & Preprocessing
+* MLflow Experiment Tracking and Model Management
+* FastAPI API Development
+* API Documentation using Swagger
+* Deployment Support
+* Technical Documentation
+
+**Models**
+
+* Logistic Regression
+* Random Forest
+* XGBoost
+
+---
+
+### 📈 Bank Marketing Subscription Prediction
+
+Machine Learning solution for predicting customer subscription to bank term deposits.
+
+**Tech Stack:** Python, Scikit-learn, XGBoost
+
+**Models**
+
+* Logistic Regression
+* Random Forest
+* XGBoost
+
+**Best Model:** Random Forest
+**Accuracy:** 72.9%
+**ROC-AUC:** 0.783
+
+---
+
+### 🚗 Driver Drowsiness Detection
+
+Graduation project focused on detecting driver fatigue using Deep Learning and CNN models to improve road safety.
+
+**Tech Stack:** Python, TensorFlow, CNN, OpenCV
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadaRagab-DataScientist\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab-DataScientist\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎓 Training & Programs
+
+* Digital Egypt Pioneers Initiative (DEPI) – Data Science Track
+* Machine Learning Training
+* Deep Learning Training
+
+---
+
+## 🌟 Let's Connect
+
+I'm always excited to collaborate on Data Science, Machine Learning, and AI projects. Feel free to connect with me or explore my repositories.
+
+⭐ If you like my projects, consider giving them a star!
+
+> **Turning data into intelligent solutions through Machine Learning and AI. Always learning, always building. 🚀**
