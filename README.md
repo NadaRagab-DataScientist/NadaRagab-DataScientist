@@ -12,38 +12,35 @@ Passionate Data Scientist focused on building end-to-end Machine Learning system
 
 ## 🚀 About Me
 
-🎓 **B.Sc. in Computers and Artificial Intelligence** — Benha University
+🎓 **B.Sc. in Computers and Artificial Intelligence** — Benha University  
 
 💡 **Areas of Interest**
-
-* Machine Learning
-* Deep Learning
-* Data Science
-* Data Analytics
-* AI Applications
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Data Analytics  
+- AI Applications  
 
 🌱 **Currently Learning**
-
-* Advanced Machine Learning
-* Deep Learning
-* Cloud Technologies
-* MLOps
+- Advanced Machine Learning  
+- Deep Learning  
+- Cloud Technologies  
+- MLOps  
 
 🤝 **Open To**
-
-* Data Science Roles
-* Machine Learning Projects
-* AI Research & Development
-* Freelance Opportunities
+- Data Science Roles  
+- Machine Learning Projects  
+- AI Research & Development  
+- Freelance Opportunities  
 
 ---
 
 ## 📊 Quick Facts
 
-* 🎓 Computer Science Graduate
-* 🤖 Passionate about Machine Learning and AI
-* 🚀 Experience building ML APIs with FastAPI
-* 📈 Interested in End-to-End Machine Learning Projects
+- 🎓 Computer Science Graduate  
+- 🤖 Passionate about Machine Learning and AI  
+- 🚀 Experience building ML APIs with FastAPI  
+- 📈 Interested in End-to-End Machine Learning Projects  
 
 ---
 
@@ -53,23 +50,29 @@ Passionate Data Scientist focused on building end-to-end Machine Learning system
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,mysql,git,github" />
 </p>
 
-**Programming Languages:** Python, SQL
+### 💡 Core Skills
 
-**Machine Learning:** Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch
+**Programming Languages:** Python, SQL  
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+**Machine Learning Algorithms:** Logistic Regression, Random Forest, Decision Trees, KNN, XGBoost, SVM  
 
-**Deployment & APIs:** FastAPI, MLflow, REST APIs
+**Feature Engineering:** Feature selection, feature extraction, encoding, scaling, handling missing values  
 
-**Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+**Machine Learning Libraries:** Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch  
+
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+
+**Deployment & APIs:** FastAPI, MLflow, REST APIs  
+
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab  
 
 ---
 
 ## 🎯 Current Focus
 
-* Building Machine Learning APIs using FastAPI
-* Improving model deployment workflows
-* Working on real-world Machine Learning projects
+- Building Machine Learning APIs using FastAPI  
+- Improving model deployment workflows  
+- Working on real-world Machine Learning projects  
 
 ---
 
@@ -79,13 +82,12 @@ Passionate Data Scientist focused on building end-to-end Machine Learning system
 
 AI-powered system for extracting and classifying financial transactions from PDF bank statements using OCR, Machine Learning, and FastAPI.
 
-**Impact**
+**Impact:**
+- Reduced manual transaction labeling effort  
+- Automated structured JSON generation for APIs  
+- Improved financial data processing workflow  
 
-* Reduced manual transaction labeling effort
-* Automated structured JSON generation for APIs
-* Improved financial data processing workflow
-
-**Tech Stack:** Python, FastAPI, OCR, Scikit-learn
+**Tech Stack:** Python, FastAPI, OCR, Scikit-learn  
 
 🔗 **Repository →** [Bank Statement Analysis System](https://github.com/NadaRagab-DataScientist/Bank-Statement-Analysis-System)
 
@@ -95,11 +97,10 @@ AI-powered system for extracting and classifying financial transactions from PDF
 
 Machine Learning solution for predicting customer subscription to bank term deposits.
 
-**Performance**
-
-* 🏆 Best Model: Random Forest
-* Accuracy: **72.9%**
-* ROC-AUC: **0.783**
+**Performance:**
+- 🏆 Best Model: Random Forest  
+- Accuracy: 72.9%  
+- ROC-AUC: 0.783  
 
 🔗 **Repository →** [Bank Marketing Subscription Prediction](https://github.com/NadaRagab-DataScientist/Bank-Marketing-Subscription-Prediction)
 
@@ -109,20 +110,18 @@ Machine Learning solution for predicting customer subscription to bank term depo
 
 End-to-end Machine Learning system for predicting diabetic patient readmission using MLflow and FastAPI.
 
-**My Contributions**
+**Role & Contributions:**
+- Data Preprocessing  
+- Feature Engineering (Feature Selection, Encoding, Scaling)  
+- MLflow Experiment Tracking  
+- FastAPI API Development  
+- Model Evaluation  
 
-* Data Preprocessing
-* Feature Engineering
-* MLflow Experiment Tracking
-* FastAPI API Development
-* Model Evaluation
-
-**Performance**
-
-* 🏆 Selected Model: XGBoost
-* Accuracy: **88.70%**
-* ROC-AUC: **0.94**
-* SMOTE-Tomek for class imbalance handling
+**Performance:**
+- 🏆 Selected Model: XGBoost  
+- Accuracy: 88.70%  
+- ROC-AUC: 0.94  
+- SMOTE-Tomek for class imbalance  
 
 🔗 **Repository →** [Diabetic Readmission Prediction](https://github.com/NadaRagab-DataScientist/diabetic-readmission-prediction)
 
@@ -132,13 +131,12 @@ End-to-end Machine Learning system for predicting diabetic patient readmission u
 
 Graduation project for real-time driver fatigue detection using Deep Learning and Computer Vision.
 
-**Tech Stack:** Python, TensorFlow, CNN, OpenCV
+**Tech Stack:** Python, TensorFlow, CNN, OpenCV  
 
-**Features**
-
-* Real-time drowsiness detection
-* CNN-based image classification
-* Driver alert system
+**Features:**
+- Real-time drowsiness detection  
+- CNN-based image classification  
+- Driver alert system  
 
 🔗 **Repository →** [Driver Drowsiness Detection](https://github.com/NadaRagab-DataScientist/GraduationProject)
 
@@ -146,9 +144,9 @@ Graduation project for real-time driver fatigue detection using Deep Learning an
 
 ## 📜 Certifications
 
-* Digital Egypt Pioneers Initiative (DEPI) – Data Science Track
-* Machine Learning Training
-* Deep Learning Training
+- Digital Egypt Pioneers Initiative (DEPI) – Data Science Track  
+- Machine Learning Training  
+- Deep Learning Training  
 
 ---
 
@@ -164,12 +162,12 @@ Graduation project for real-time driver fatigue detection using Deep Learning an
 
 ## 📫 Connect With Me
 
-* 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/nadaragab2001
-* 💻 GitHub: https://github.com/NadaRagab-DataScientist
+- 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)  
+- 💼 LinkedIn: https://linkedin.com/in/nadaragab2001  
+- 💻 GitHub: https://github.com/NadaRagab-DataScientist  
 
 ---
 
 ⭐ Feel free to explore my repositories and connect with me.
 
-> **Transforming data into intelligent solutions through Machine Learning and Artificial Intelligence. 🚀**
+> Transforming data into intelligent solutions through Machine Learning and Artificial Intelligence 🚀
