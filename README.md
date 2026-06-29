@@ -2,7 +2,7 @@
 
 ### Data Scientist | Machine Learning Engineer | FastAPI & MLOps Enthusiast
 
-Passionate Data Scientist specializing in Machine Learning and Artificial Intelligence. I enjoy building end-to-end data science solutions, from data preprocessing and model development to deployment using FastAPI and modern MLOps practices. I love transforming data into intelligent, real-world solutions that create impact.
+Passionate Data Scientist specializing in Machine Learning and Artificial Intelligence. I enjoy building end-to-end data science solutions, from data preprocessing and model development to deployment using FastAPI and MLOps practices. My goal is to transform data into intelligent solutions that solve real-world problems.
 
 ---
 
@@ -10,55 +10,55 @@ Passionate Data Scientist specializing in Machine Learning and Artificial Intell
 
 🎓 Bachelor's Degree in Computers and Artificial Intelligence, Benha University
 
-📊 **Specialized in:**
+📊 **Areas of Expertise**
 
 * Data Science
 * Machine Learning
 * Deep Learning
 * Data Analysis
-* Model Deployment
+* Model Deployment & APIs
 
-💻 **Experienced with:**
+💻 **Technical Skills**
 
 * Python
 * Scikit-learn
 * TensorFlow
 * PyTorch
 * FastAPI
+* MLflow
+* SQL
 * Pandas
 * NumPy
-* SQL
-* MLflow
 
-🌱 **Currently Learning:**
+🌱 **Currently Learning**
 
 * Advanced Machine Learning
 * Deep Learning
 * Cloud Technologies
 * MLOps
 
-🤝 **Open to:**
+🤝 **Open To**
 
-* Data Science Opportunities
+* Data Science Roles
 * Machine Learning Projects
+* AI Applications Development
 * Research Collaborations
-* AI Application Development
 
-📫 **Reach Me**
+📫 **Contact**
 
-* 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/nadaragab2001
-* 💻 GitHub: github.com/NadaRagab-DataScientist
+* Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
+* LinkedIn: linkedin.com/in/nadaragab2001
+* GitHub: github.com/NadaRagab-DataScientist
 
 ---
 
 ## 🏆 Highlights
 
-* 🎓 B.Sc. in Computers and Artificial Intelligence
-* 🤖 Built multiple end-to-end Machine Learning and AI projects
-* 🚀 Experienced in deploying ML models using FastAPI
-* 📊 Strong background in predictive modeling and data analysis
-* 💡 Passionate about solving real-world problems with AI
+* Built multiple end-to-end Machine Learning projects
+* Experienced in FastAPI-based model deployment
+* Hands-on experience with MLflow experiment tracking
+* Strong background in predictive analytics and data preprocessing
+* Passionate about building AI solutions for real-world applications
 
 ---
 
@@ -100,75 +100,83 @@ Passionate Data Scientist specializing in Machine Learning and Artificial Intell
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🏦 Bank Statement Analysis System
+## 🏦 Bank Statement Analysis System
 
 AI-powered system for extracting, classifying, and managing financial transactions from PDF bank statements using OCR, Machine Learning, and FastAPI.
 
-**Tech Stack:** Python, FastAPI, Scikit-learn, PDF Processing
+**Technologies:** Python, FastAPI, OCR, Scikit-learn, PDF Processing
 
-**Key Features**
+### Key Features
 
-* Financial transaction extraction
+* PDF transaction extraction
 * Automatic transaction classification
-* Feedback-based learning
+* Feedback-driven learning workflow
 * JSON-ready output
+* Model retraining based on user feedback
 
 ---
 
-### 🏥 Diabetic Patient Readmission Prediction (DEPI Graduation Project)
+## 📈 Bank Marketing Subscription Prediction
 
-End-to-end Machine Learning project for predicting diabetic patient readmission using multiple classification models, MLflow experiment tracking, and FastAPI deployment.
+Machine Learning solution for predicting whether bank customers will subscribe to a term deposit campaign.
 
-**My Contributions**
+**Technologies:** Python, Scikit-learn, XGBoost, Random Forest
+
+### Results
+
+* Best Model: Random Forest
+* Accuracy: 72.9%
+* ROC-AUC: 0.783
+
+---
+
+## 🏥 Diabetic Patient Readmission Prediction (DEPI Graduation Project)
+
+End-to-end Machine Learning project for predicting diabetic patient readmission using multiple classification models, MLflow tracking, data balancing techniques, and FastAPI deployment.
+
+### My Contributions
 
 * Data Cleaning & Preprocessing
-* MLflow Experiment Tracking and Model Management
+* MLflow Experiment Tracking & Model Management
 * FastAPI API Development
-* API Documentation using Swagger
-* Deployment Support
+* Swagger API Documentation
+* Deployment & Testing Support
 * Technical Documentation
 
-**Models**
+### Models Used
 
 * Logistic Regression
+* Decision Tree
 * Random Forest
 * XGBoost
+* Gradient Boosting
+* KNN
+* Gaussian Naive Bayes
 
----
+### Final Selected Model
 
-### 📈 Bank Marketing Subscription Prediction
-
-Machine Learning solution for predicting customer subscription to bank term deposits.
-
-**Tech Stack:** Python, Scikit-learn, XGBoost
-
-**Models**
-
-* Logistic Regression
-* Random Forest
 * XGBoost
 
-**Best Model:** Random Forest
-**Accuracy:** 72.9%
-**ROC-AUC:** 0.783
+### Performance
+
+* Accuracy: 88.70%
+* Strong performance on imbalanced data using SMOTE-Tomek
 
 ---
 
-### 🚗 Driver Drowsiness Detection
+## 🚗 Driver Drowsiness Detection (Graduation Project)
 
-Graduation project focused on detecting driver fatigue using Deep Learning and CNN models to improve road safety.
+Deep Learning-based system for detecting driver fatigue using CNN models and computer vision techniques.
 
-**Tech Stack:** Python, TensorFlow, CNN, OpenCV
+**Technologies:** Python, TensorFlow, CNN, OpenCV
 
----
+### Features
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadaRagab-DataScientist\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab-DataScientist\&layout=compact\&theme=tokyonight)
+* Real-time drowsiness detection
+* CNN-based image classification
+* Alert system for fatigue prevention
 
 ---
 
@@ -182,8 +190,8 @@ Graduation project focused on detecting driver fatigue using Deep Learning and C
 
 ## 🌟 Let's Connect
 
-I'm always excited to collaborate on Data Science, Machine Learning, and AI projects. Feel free to connect with me or explore my repositories.
+I'm always excited to collaborate on Data Science, Machine Learning, and AI projects.
 
-⭐ If you like my projects, consider giving them a star!
+⭐ Feel free to explore my repositories and connect with me.
 
-> **Turning data into intelligent solutions through Machine Learning and AI. Always learning, always building. 🚀**
+> Turning data into intelligent solutions through Machine Learning and AI 🚀
