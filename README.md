@@ -12,35 +12,38 @@ Passionate Data Scientist focused on building end-to-end Machine Learning system
 
 ## 🚀 About Me
 
-🎓 **B.Sc. in Computers and Artificial Intelligence** — Benha University  
+🎓 **B.Sc. in Computers and Artificial Intelligence** — Benha University
 
 💡 **Areas of Interest**
-- Machine Learning  
-- Deep Learning  
-- Data Science  
-- Data Analytics  
-- AI Applications  
+
+* Machine Learning
+* Deep Learning
+* Data Science
+* Data Analytics
+* AI Applications
 
 🌱 **Currently Learning**
-- Advanced Machine Learning  
-- Deep Learning  
-- Cloud Technologies  
-- MLOps  
+
+* Advanced Machine Learning
+* Deep Learning
+* Cloud Technologies
+* MLOps
 
 🤝 **Open To**
-- Data Science Roles  
-- Machine Learning Projects  
-- AI Research & Development  
-- Freelance Opportunities  
+
+* Data Science Roles
+* Machine Learning Projects
+* AI Research & Development
+* Freelance Opportunities
 
 ---
 
 ## 📊 Quick Facts
 
-- 🎓 Computer Science Graduate  
-- 🤖 Passionate about Machine Learning and AI  
-- 🚀 Experience building ML APIs with FastAPI  
-- 📈 Interested in End-to-End Machine Learning Projects  
+* 🎓 B.Sc. in Computers and Artificial Intelligence
+* 🤖 Passionate about Machine Learning and Artificial Intelligence
+* 🚀 Experience building Machine Learning APIs with FastAPI
+* 📈 Interested in End-to-End Machine Learning Projects
 
 ---
 
@@ -52,27 +55,31 @@ Passionate Data Scientist focused on building end-to-end Machine Learning system
 
 ### 💡 Core Skills
 
-**Programming Languages:** Python, SQL  
+**Programming Languages:** Python • SQL
 
-**Machine Learning Algorithms:** Logistic Regression, Random Forest, Decision Trees, KNN, XGBoost, SVM  
+**Machine Learning Algorithms:** Logistic Regression • Decision Tree • Random Forest • Gradient Boosting • XGBoost • KNN • Gaussian Naive Bayes • SVM
 
-**Feature Engineering:** Feature selection, feature extraction, encoding, scaling, handling missing values  
+**Deep Learning:** TensorFlow • Keras • PyTorch • CNN
 
-**Machine Learning Libraries:** Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch  
+**Computer Vision:** OpenCV • Image Classification • OCR
 
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+**Feature Engineering:** Feature Selection • Feature Extraction • Encoding • Scaling • Missing Value Handling
 
-**Deployment & APIs:** FastAPI, MLflow, REST APIs  
+**Machine Learning Libraries:** Scikit-learn • XGBoost • TensorFlow • Keras • PyTorch
 
-**Tools:** Git, GitHub, Jupyter Notebook, Google Colab  
+**Data Analysis & Visualization:** Pandas • NumPy • Matplotlib • Seaborn • Plotly
+
+**Deployment:** FastAPI • MLflow
+
+**Tools:** Git • GitHub • Jupyter Notebook • Google Colab
 
 ---
 
 ## 🎯 Current Focus
 
-- Building Machine Learning APIs using FastAPI  
-- Improving model deployment workflows  
-- Working on real-world Machine Learning projects  
+* Building Machine Learning APIs using FastAPI
+* Improving Machine Learning deployment workflows
+* Working on real-world Machine Learning projects
 
 ---
 
@@ -82,12 +89,13 @@ Passionate Data Scientist focused on building end-to-end Machine Learning system
 
 AI-powered system for extracting and classifying financial transactions from PDF bank statements using OCR, Machine Learning, and FastAPI.
 
-**Impact:**
-- Reduced manual transaction labeling effort  
-- Automated structured JSON generation for APIs  
-- Improved financial data processing workflow  
+**Impact**
 
-**Tech Stack:** Python, FastAPI, OCR, Scikit-learn  
+* Reduced manual transaction labeling effort
+* Automated structured JSON generation for APIs
+* Improved financial data processing workflow
+
+**Tech Stack:** Python • FastAPI • OCR • Scikit-learn
 
 🔗 **Repository →** [Bank Statement Analysis System](https://github.com/NadaRagab-DataScientist/Bank-Statement-Analysis-System)
 
@@ -97,10 +105,11 @@ AI-powered system for extracting and classifying financial transactions from PDF
 
 Machine Learning solution for predicting customer subscription to bank term deposits.
 
-**Performance:**
-- 🏆 Best Model: Random Forest  
-- Accuracy: 72.9%  
-- ROC-AUC: 0.783  
+**Performance**
+
+* 🏆 Best Model: Random Forest
+* Accuracy: **72.9%**
+* ROC-AUC: **0.783**
 
 🔗 **Repository →** [Bank Marketing Subscription Prediction](https://github.com/NadaRagab-DataScientist/Bank-Marketing-Subscription-Prediction)
 
@@ -110,18 +119,20 @@ Machine Learning solution for predicting customer subscription to bank term depo
 
 End-to-end Machine Learning system for predicting diabetic patient readmission using MLflow and FastAPI.
 
-**Role & Contributions:**
-- Data Preprocessing  
-- Feature Engineering (Feature Selection, Encoding, Scaling)  
-- MLflow Experiment Tracking  
-- FastAPI API Development  
-- Model Evaluation  
+**Role & Contributions**
 
-**Performance:**
-- 🏆 Selected Model: XGBoost  
-- Accuracy: 88.70%  
-- ROC-AUC: 0.94  
-- SMOTE-Tomek for class imbalance  
+* Data Preprocessing
+* Feature Engineering (Feature Selection, Encoding, Scaling)
+* MLflow Experiment Tracking
+* FastAPI API Development
+* Model Evaluation
+
+**Performance**
+
+* 🏆 Selected Model: XGBoost
+* Accuracy: **88.70%**
+* ROC-AUC: **0.94**
+* SMOTE-Tomek for class imbalance handling
 
 🔗 **Repository →** [Diabetic Readmission Prediction](https://github.com/NadaRagab-DataScientist/diabetic-readmission-prediction)
 
@@ -131,12 +142,13 @@ End-to-end Machine Learning system for predicting diabetic patient readmission u
 
 Graduation project for real-time driver fatigue detection using Deep Learning and Computer Vision.
 
-**Tech Stack:** Python, TensorFlow, CNN, OpenCV  
+**Tech Stack:** Python • TensorFlow • CNN • OpenCV
 
-**Features:**
-- Real-time drowsiness detection  
-- CNN-based image classification  
-- Driver alert system  
+**Features**
+
+* Real-time drowsiness detection
+* CNN-based image classification
+* Driver alert system
 
 🔗 **Repository →** [Driver Drowsiness Detection](https://github.com/NadaRagab-DataScientist/GraduationProject)
 
@@ -144,9 +156,9 @@ Graduation project for real-time driver fatigue detection using Deep Learning an
 
 ## 📜 Certifications
 
-- Digital Egypt Pioneers Initiative (DEPI) – Data Science Track  
-- Machine Learning Training  
-- Deep Learning Training  
+* Digital Egypt Pioneers Initiative (DEPI) – Data Science Track
+* Machine Learning Training
+* Deep Learning Training
 
 ---
 
@@ -158,16 +170,20 @@ Graduation project for real-time driver fatigue detection using Deep Learning an
   <img src="https://streak-stats.demolab.com?user=NadaRagab-DataScientist&theme=tokyonight" />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NadaRagab-DataScientist&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)  
-- 💼 LinkedIn: https://linkedin.com/in/nadaragab2001  
-- 💻 GitHub: https://github.com/NadaRagab-DataScientist  
+* 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/nadaragab2001](https://linkedin.com/in/nadaragab2001)
+* 💻 GitHub: [github.com/NadaRagab-DataScientist](https://github.com/NadaRagab-DataScientist)
 
 ---
 
 ⭐ Feel free to explore my repositories and connect with me.
 
-> Transforming data into intelligent solutions through Machine Learning and Artificial Intelligence 🚀
+> **Transforming data into intelligent solutions through Machine Learning and Artificial Intelligence. 🚀**
