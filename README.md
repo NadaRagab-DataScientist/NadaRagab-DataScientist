@@ -6,36 +6,44 @@
 
 ### Data Scientist | Machine Learning Engineer | AI Enthusiast
 
-Passionate about Machine Learning, Data Science, and AI applications. I enjoy building end-to-end solutions, from data preprocessing and model development to deployment using FastAPI and modern MLOps tools.
+Passionate Data Scientist focused on building end-to-end Machine Learning systems—from data extraction and preprocessing to model development and deployment using FastAPI and MLflow. I enjoy transforming real-world data into intelligent solutions that solve practical business problems.
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Sc. in Computers and Artificial Intelligence — Benha University
+🎓 **B.Sc. in Computers and Artificial Intelligence** — Benha University
 
-💡 Areas of Interest
+💡 **Areas of Interest**
 
 * Machine Learning
 * Deep Learning
 * Data Science
 * Data Analytics
-* MLOps
 * AI Applications
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 * Advanced Machine Learning
 * Deep Learning
 * Cloud Technologies
 * MLOps
 
-🤝 Open To
+🤝 **Open To**
 
 * Data Science Roles
 * Machine Learning Projects
 * AI Research & Development
 * Freelance Opportunities
+
+---
+
+## 📊 Quick Facts
+
+* 🎓 Computer Science Graduate
+* 🤖 Passionate about Machine Learning and AI
+* 🚀 Experience building ML APIs with FastAPI
+* 📈 Interested in End-to-End Machine Learning Projects
 
 ---
 
@@ -45,120 +53,100 @@ Passionate about Machine Learning, Data Science, and AI applications. I enjoy bu
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,mysql,git,github" />
 </p>
 
-### Machine Learning
+**Programming Languages:** Python, SQL
 
-* Scikit-learn
-* XGBoost
-* TensorFlow
-* Keras
-* PyTorch
+**Machine Learning:** Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch
 
-### Data Analysis
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
+**Deployment & APIs:** FastAPI, MLflow, REST APIs
 
-### Deployment
-
-* FastAPI
-* REST APIs
-* MLflow
-
-### Tools
-
-* Git
-* GitHub
-* Jupyter Notebook
-* Google Colab
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 
 ---
 
-# 📂 Featured Projects
+## 🎯 Current Focus
 
-## 🏦 Bank Statement Analysis System
+* Building Machine Learning APIs using FastAPI
+* Improving model deployment workflows
+* Working on real-world Machine Learning projects
+
+---
+
+## 📂 Featured Projects
+
+### 🏦 Bank Statement Analysis System
 
 AI-powered system for extracting and classifying financial transactions from PDF bank statements using OCR, Machine Learning, and FastAPI.
 
+**Impact**
+
+* Reduced manual transaction labeling effort
+* Automated structured JSON generation for APIs
+* Improved financial data processing workflow
+
 **Tech Stack:** Python, FastAPI, OCR, Scikit-learn
 
-### Features
-
-* PDF transaction extraction
-* Automatic transaction classification
-* Feedback-based learning
-* JSON-ready output
-* Model retraining workflow
-
-🔗 Repository:
-https://github.com/NadaRagab-DataScientist/Bank-Statement-Analysis-System
+🔗 **Repository →** [Bank Statement Analysis System](https://github.com/NadaRagab-DataScientist/Bank-Statement-Analysis-System)
 
 ---
 
-## 📈 Bank Marketing Subscription Prediction
+### 📈 Bank Marketing Subscription Prediction
 
 Machine Learning solution for predicting customer subscription to bank term deposits.
 
-**Tech Stack:** Python, Scikit-learn, Random Forest, XGBoost
+**Performance**
 
-### Results
+* 🏆 Best Model: Random Forest
+* Accuracy: **72.9%**
+* ROC-AUC: **0.783**
 
-* Best Model: Random Forest
-* Accuracy: 72.9%
-* ROC-AUC: 0.783
-
-🔗 Repository:
-https://github.com/NadaRagab-DataScientist/Bank-Marketing-Subscription-Prediction
+🔗 **Repository →** [Bank Marketing Subscription Prediction](https://github.com/NadaRagab-DataScientist/Bank-Marketing-Subscription-Prediction)
 
 ---
 
-## 🏥 Diabetic Patient Readmission Prediction (DEPI Project)
+### 🏥 Diabetic Patient Readmission Prediction (DEPI Project)
 
-End-to-end Machine Learning project for predicting diabetic patient readmission using MLflow and FastAPI deployment.
+End-to-end Machine Learning system for predicting diabetic patient readmission using MLflow and FastAPI.
 
-### Contributions
+**My Contributions**
 
 * Data Preprocessing
 * Feature Engineering
-* MLflow Tracking
-* FastAPI Development
-* API Documentation
+* MLflow Experiment Tracking
+* FastAPI API Development
 * Model Evaluation
 
-### Performance
+**Performance**
 
-* Selected Model: XGBoost
-* Accuracy: 88.70%
-* ROC-AUC: 0.94
-* SMOTE-Tomek Balancing
+* 🏆 Selected Model: XGBoost
+* Accuracy: **88.70%**
+* ROC-AUC: **0.94**
+* SMOTE-Tomek for class imbalance handling
 
-🔗 Repository:
-https://github.com/NadaRagab-DataScientist/diabetic-readmission-prediction
+🔗 **Repository →** [Diabetic Readmission Prediction](https://github.com/NadaRagab-DataScientist/diabetic-readmission-prediction)
 
 ---
 
-## 🚗 Driver Drowsiness Detection
+### 🚗 Driver Drowsiness Detection
 
 Graduation project for real-time driver fatigue detection using Deep Learning and Computer Vision.
 
 **Tech Stack:** Python, TensorFlow, CNN, OpenCV
 
-### Features
+**Features**
 
-* Real-time detection
-* CNN-based classification
-* Alert system
+* Real-time drowsiness detection
+* CNN-based image classification
+* Driver alert system
 
-🔗 Repository:
-https://github.com/NadaRagab-DataScientist/GraduationProject
+🔗 **Repository →** [Driver Drowsiness Detection](https://github.com/NadaRagab-DataScientist/GraduationProject)
 
 ---
 
-## 🎓 Training & Programs
+## 📜 Certifications
 
-* Digital Egypt Pioneers Initiative (DEPI) — Data Science Track
+* Digital Egypt Pioneers Initiative (DEPI) – Data Science Track
 * Machine Learning Training
 * Deep Learning Training
 
@@ -166,22 +154,22 @@ https://github.com/NadaRagab-DataScientist/GraduationProject
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadaRagab-DataScientist\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab-DataScientist\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NadaRagab-DataScientist\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NadaRagab-DataScientist&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRagab-DataScientist&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=NadaRagab-DataScientist&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
-* LinkedIn: linkedin.com/in/nadaragab2001
-* GitHub: github.com/NadaRagab-DataScientist
+* 📧 Email: [nadaallban2001@gmail.com](mailto:nadaallban2001@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/nadaragab2001
+* 💻 GitHub: https://github.com/NadaRagab-DataScientist
 
 ---
 
 ⭐ Feel free to explore my repositories and connect with me.
 
-> Turning data into intelligent solutions through Machine Learning and AI 🚀
+> **Transforming data into intelligent solutions through Machine Learning and Artificial Intelligence. 🚀**
